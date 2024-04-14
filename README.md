@@ -1,5 +1,6 @@
 Aqui anexo imagenes del acceso a la plataforma ya sea Usuario o Administrador del sitio web.
 
+Registro para poder inicia sesion
 ![image](https://github.com/yuldorolmedomulcue/MulcueStore./assets/109251693/b42519cd-9394-4a62-bc3a-8e1b21f9609e)
 
 ![image](https://github.com/yuldorolmedomulcue/MulcueStore./assets/109251693/f3a410bc-cdd8-4d35-8235-7bd954992bf6)
