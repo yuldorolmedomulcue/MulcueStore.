@@ -10,6 +10,9 @@ Panel administrador
 ![image](https://github.com/yuldorolmedomulcue/MulcueStore./assets/109251693/05323163-18a5-4be1-b4c5-b0c973e33028)
 
 Inicio cliente
+![image](https://github.com/yuldorolmedomulcue/MulcueStore./assets/109251693/ac42e6cc-f615-4570-98eb-eefcc7c410dc)
+
+Panel cliente
 ![image](https://github.com/yuldorolmedomulcue/MulcueStore./assets/109251693/66ed921a-af8e-44c8-93e9-67c5c6046795)
 
 Si la clave es incorrecta no dejara acceder
